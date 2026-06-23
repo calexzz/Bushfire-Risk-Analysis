@@ -1,1 +1,1 @@
-xarray numpy netcdf4 pandas
+xarray numpy netcdf4 pandas matplotlib
